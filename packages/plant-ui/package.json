@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "ShibaScream <daniel.r.peters@icloud.com>",
-  "homepage": "",
+  "homepage": "https://github.com/ShibaScream/plant-project#readme",
   "license": "ISC",
   "main": "lib/plant-ui.js",
   "directories": {
@@ -13,7 +13,17 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShibaScream/plant-project.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ShibaScream/plant-project/issues"
+  },
+  "dependencies": {
+    "common": "^0.0.0"
   }
 }

@@ -1,7 +1,1 @@
-'use strict';
-
-module.exports = common;
-
-function common() {
-    // TODO
-}
+export default App = () => console.log('TODO COMMON');

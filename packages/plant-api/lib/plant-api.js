@@ -1,7 +1,9 @@
 'use strict';
 
-module.exports = plantApi;
+import common from '../../common';
+
+export default plantApi;
 
 function plantApi() {
-    // TODO
+  common();
 }

@@ -1,0 +1,19 @@
+{
+  "name": "plant-api",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "ShibaScream <daniel.r.peters@icloud.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/plant-api.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
